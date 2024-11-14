@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="seno_coseno">
+    <output-path>$PROJECT_DIR$/out/artifacts/seno_coseno</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="seno_coseno" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="seno_coseno/web/Web" />
+    </root>
+  </artifact>
+</component>
